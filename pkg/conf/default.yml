@@ -1,0 +1,4 @@
+meals_db: "postgres://postgres:password@localhost:5432/meal_planner"
+
+server:
+  port: 3000
